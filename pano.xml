@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18007" start="node15" appversion="6.1.10">
+  <panorama id="node15">
+    <input tile3url="images/столовая_cube_equi_o_3.jpg" levelingroll="0" tile4url="images/столовая_cube_equi_o_4.jpg" tilevrurl="images/столовая_cube_equi_ovr.jpg" prev0url="images/столовая_cube_equi_o_preview_0.jpg" prev2url="images/столовая_cube_equi_o_preview_2.jpg" prev4url="images/столовая_cube_equi_o_preview_4.jpg" tile0url="images/столовая_cube_equi_o_0.jpg" tile5url="images/столовая_cube_equi_o_5.jpg" tile1url="images/столовая_cube_equi_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/столовая_cube_equi_o_preview_3.jpg" levelingpitch="0" prev1url="images/столовая_cube_equi_o_preview_1.jpg" prev5url="images/столовая_cube_equi_o_preview_5.jpg" tile2url="images/столовая_cube_equi_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Столовая" latitude="" datetime="26.11.2025 9:48" heading="0" info="" nodeid="node15" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Downloads" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input tile3url="images/входная группа 2_cube_cube_equi_o_3.jpg" levelingroll="0" tile4url="images/входная группа 2_cube_cube_equi_o_4.jpg" tilevrurl="images/входная группа 2_cube_cube_equi_ovr.jpg" prev0url="images/входная группа 2_cube_cube_equi_o_preview_0.jpg" prev2url="images/входная группа 2_cube_cube_equi_o_preview_2.jpg" prev4url="images/входная группа 2_cube_cube_equi_o_preview_4.jpg" tile0url="images/входная группа 2_cube_cube_equi_o_0.jpg" tile5url="images/входная группа 2_cube_cube_equi_o_5.jpg" tile1url="images/входная группа 2_cube_cube_equi_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/входная группа 2_cube_cube_equi_o_preview_3.jpg" levelingpitch="0" prev1url="images/входная группа 2_cube_cube_equi_o_preview_1.jpg" prev5url="images/входная группа 2_cube_cube_equi_o_preview_5.jpg" tile2url="images/входная группа 2_cube_cube_equi_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Входная группа" latitude="" datetime="26.11.2025 6:47" heading="0" info="" nodeid="node14" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Downloads" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input tile3url="images/английский_o_3.jpg" levelingroll="-0.27" tile4url="images/английский_o_4.jpg" tilevrurl="images/английский_ovr.jpg" prev0url="images/английский_o_preview_0.jpg" prev2url="images/английский_o_preview_2.jpg" prev4url="images/английский_o_preview_4.jpg" tile0url="images/английский_o_0.jpg" tile5url="images/английский_o_5.jpg" tile1url="images/английский_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/английский_o_preview_3.jpg" levelingpitch="0" prev1url="images/английский_o_preview_1.jpg" prev5url="images/английский_o_preview_5.jpg" tile2url="images/английский_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="-96.7608" tilt="1.15883"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Кабинет английского языка" latitude="" datetime="26.11.2025 6:31" heading="0" info="" nodeid="node3" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input tile3url="images/биология_equi_o_3.jpg" levelingroll="-0.34" tile4url="images/биология_equi_o_4.jpg" tilevrurl="images/биология_equi_ovr.jpg" prev0url="images/биология_equi_o_preview_0.jpg" prev2url="images/биология_equi_o_preview_2.jpg" prev4url="images/биология_equi_o_preview_4.jpg" tile0url="images/биология_equi_o_0.jpg" tile5url="images/биология_equi_o_5.jpg" tile1url="images/биология_equi_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/биология_equi_o_preview_3.jpg" levelingpitch="0" prev1url="images/биология_equi_o_preview_1.jpg" prev5url="images/биология_equi_o_preview_5.jpg" tile2url="images/биология_equi_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="-174.362" tilt="0.726381"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Кабинет Биологии" latitude="" datetime="26.11.2025 9:11" heading="0" info="" nodeid="node6" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input tile3url="images/география_equi_o_3.jpg" levelingroll="-0.63" tile4url="images/география_equi_o_4.jpg" tilevrurl="images/география_equi_ovr.jpg" prev0url="images/география_equi_o_preview_0.jpg" prev2url="images/география_equi_o_preview_2.jpg" prev4url="images/география_equi_o_preview_4.jpg" tile0url="images/география_equi_o_0.jpg" tile5url="images/география_equi_o_5.jpg" tile1url="images/география_equi_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/география_equi_o_preview_3.jpg" levelingpitch="-0.143583" prev1url="images/география_equi_o_preview_1.jpg" prev5url="images/география_equi_o_preview_5.jpg" tile2url="images/география_equi_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="81.1981" tilt="1.58725"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Кабинет Географии" latitude="" datetime="26.11.2025 8:59" heading="0" info="" nodeid="node8" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input tile3url="images/Детский класс4_equi_o_3.jpg" levelingroll="-1" tile4url="images/Детский класс4_equi_o_4.jpg" tilevrurl="images/Детский класс4_equi_ovr.jpg" prev0url="images/Детский класс4_equi_o_preview_0.jpg" prev2url="images/Детский класс4_equi_o_preview_2.jpg" prev4url="images/Детский класс4_equi_o_preview_4.jpg" tile0url="images/Детский класс4_equi_o_0.jpg" tile5url="images/Детский класс4_equi_o_5.jpg" tile1url="images/Детский класс4_equi_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/Детский класс4_equi_o_preview_3.jpg" levelingpitch="0" prev1url="images/Детский класс4_equi_o_preview_1.jpg" prev5url="images/Детский класс4_equi_o_preview_5.jpg" tile2url="images/Детский класс4_equi_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="-88.7835" tilt="1.5292"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Кабинет начальной школы" latitude="" datetime="26.11.2025 9:29" heading="0" info="" nodeid="node9" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input tile3url="images/класс трудов_o_3.jpg" levelingroll="-4.63926" tile4url="images/класс трудов_o_4.jpg" tilevrurl="images/класс трудов_ovr.jpg" prev0url="images/класс трудов_o_preview_0.jpg" prev2url="images/класс трудов_o_preview_2.jpg" prev4url="images/класс трудов_o_preview_4.jpg" tile0url="images/класс трудов_o_0.jpg" tile5url="images/класс трудов_o_5.jpg" tile1url="images/класс трудов_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/класс трудов_o_preview_3.jpg" levelingpitch="-3.9569" prev1url="images/класс трудов_o_preview_1.jpg" prev5url="images/класс трудов_o_preview_5.jpg" tile2url="images/класс трудов_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="44.3508" tilt="-2.5159"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Кабинет Технологии" latitude="" datetime="26.11.2025 7:03" heading="0" info="" nodeid="node12" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input tile3url="images/Библиотека11_o_3.jpg" levelingroll="-0.286292" tile4url="images/Библиотека11_o_4.jpg" tilevrurl="images/Библиотека11_ovr.jpg" prev0url="images/Библиотека11_o_preview_0.jpg" prev2url="images/Библиотека11_o_preview_2.jpg" prev4url="images/Библиотека11_o_preview_4.jpg" tile0url="images/Библиотека11_o_0.jpg" tile5url="images/Библиотека11_o_5.jpg" tile1url="images/Библиотека11_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/Библиотека11_o_preview_3.jpg" levelingpitch="0" prev1url="images/Библиотека11_o_preview_1.jpg" prev5url="images/Библиотека11_o_preview_5.jpg" tile2url="images/Библиотека11_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="-76.7027" tilt="-1.67892"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Информационно-библиотечный центр точка № 2" latitude="" datetime="26.11.2025 8:25" heading="0" info="" nodeid="node4" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+      <hotspot title="Информационно-библиотечный центр точка № 1" skinid="ht_node" url="{node5}" target="" pan="-259.6" id="Информационно-библиотечный центр точка № 1" description="" tilt="-3.36"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input tile3url="images/библиотека22_cube_equi_equi_o_3.jpg" levelingroll="-0.5" tile4url="images/библиотека22_cube_equi_equi_o_4.jpg" tilevrurl="images/библиотека22_cube_equi_equi_ovr.jpg" prev0url="images/библиотека22_cube_equi_equi_o_preview_0.jpg" prev2url="images/библиотека22_cube_equi_equi_o_preview_2.jpg" prev4url="images/библиотека22_cube_equi_equi_o_preview_4.jpg" tile0url="images/библиотека22_cube_equi_equi_o_0.jpg" tile5url="images/библиотека22_cube_equi_equi_o_5.jpg" tile1url="images/библиотека22_cube_equi_equi_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/библиотека22_cube_equi_equi_o_preview_3.jpg" levelingpitch="0" prev1url="images/библиотека22_cube_equi_equi_o_preview_1.jpg" prev5url="images/библиотека22_cube_equi_equi_o_preview_5.jpg" tile2url="images/библиотека22_cube_equi_equi_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="-10.9162" tilt="-1.13073"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Информационно-библиотечный центр точка № 1" latitude="" datetime="26.11.2025 8:34" heading="0" info="" nodeid="node5" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+      <hotspot title="Информационно-библиотечный центр точка № 2" skinid="ht_node" url="{node4}" target="" pan="-12.08" id="Информационно-библиотечный центр точка № 2" description="" tilt="-2.65"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input tile3url="images/большой спортщал_cube_equi_o_3.jpg" levelingroll="0" tile4url="images/большой спортщал_cube_equi_o_4.jpg" tilevrurl="images/большой спортщал_cube_equi_ovr.jpg" prev0url="images/большой спортщал_cube_equi_o_preview_0.jpg" prev2url="images/большой спортщал_cube_equi_o_preview_2.jpg" prev4url="images/большой спортщал_cube_equi_o_preview_4.jpg" tile0url="images/большой спортщал_cube_equi_o_0.jpg" tile5url="images/большой спортщал_cube_equi_o_5.jpg" tile1url="images/большой спортщал_cube_equi_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/большой спортщал_cube_equi_o_preview_3.jpg" levelingpitch="-0.3" prev1url="images/большой спортщал_cube_equi_o_preview_1.jpg" prev5url="images/большой спортщал_cube_equi_o_preview_5.jpg" tile2url="images/большой спортщал_cube_equi_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="91.5054" tilt="2.32933"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Спортивный зал " latitude="" datetime="26.11.2025 7:54" heading="0" info="" nodeid="node7" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input tile3url="images/Хореографический зал_o_3.jpg" levelingroll="-1.09" tile4url="images/Хореографический зал_o_4.jpg" tilevrurl="images/Хореографический зал_ovr.jpg" prev0url="images/Хореографический зал_o_preview_0.jpg" prev2url="images/Хореографический зал_o_preview_2.jpg" prev4url="images/Хореографический зал_o_preview_4.jpg" tile0url="images/Хореографический зал_o_0.jpg" tile5url="images/Хореографический зал_o_5.jpg" tile1url="images/Хореографический зал_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/Хореографический зал_o_preview_3.jpg" levelingpitch="0.198987" prev1url="images/Хореографический зал_o_preview_1.jpg" prev5url="images/Хореографический зал_o_preview_5.jpg" tile2url="images/Хореографический зал_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="-28.8126" tilt="3.82364"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Зал хореографии и фитнес-аэробики" latitude="" datetime="26.11.2025 7:18" heading="0" info="" nodeid="node13" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input tile3url="images/ЗалДляДетейСОсобенностями_o_3.jpg" levelingroll="1.23964" tile4url="images/ЗалДляДетейСОсобенностями_o_4.jpg" tilevrurl="images/ЗалДляДетейСОсобенностями_ovr.jpg" prev0url="images/ЗалДляДетейСОсобенностями_o_preview_0.jpg" prev2url="images/ЗалДляДетейСОсобенностями_o_preview_2.jpg" prev4url="images/ЗалДляДетейСОсобенностями_o_preview_4.jpg" tile0url="images/ЗалДляДетейСОсобенностями_o_0.jpg" tile5url="images/ЗалДляДетейСОсобенностями_o_5.jpg" tile1url="images/ЗалДляДетейСОсобенностями_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/ЗалДляДетейСОсобенностями_o_preview_3.jpg" levelingpitch="-2.25" prev1url="images/ЗалДляДетейСОсобенностями_o_preview_1.jpg" prev5url="images/ЗалДляДетейСОсобенностями_o_preview_5.jpg" tile2url="images/ЗалДляДетейСОсобенностями_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="45.6742" tilt="-1.16898"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Зал для занятий с детьми специальной медицинской группы" latitude="" datetime="26.11.2025 7:39" heading="0" info="" nodeid="node10" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input tile3url="images/качалка_o_3.jpg" levelingroll="-2.76" tile4url="images/качалка_o_4.jpg" tilevrurl="images/качалка_ovr.jpg" prev0url="images/качалка_o_preview_0.jpg" prev2url="images/качалка_o_preview_2.jpg" prev4url="images/качалка_o_preview_4.jpg" tile0url="images/качалка_o_0.jpg" tile5url="images/качалка_o_5.jpg" tile1url="images/качалка_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/качалка_o_preview_3.jpg" levelingpitch="-2" prev1url="images/качалка_o_preview_1.jpg" prev5url="images/качалка_o_preview_5.jpg" tile2url="images/качалка_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="-35.9735" tilt="0.132078"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Тренажерный зал" latitude="" datetime="26.11.2025 7:29" heading="0" info="" nodeid="node11" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input tile3url="images/актовый зал 1(зрительный зал)_o_3.jpg" levelingroll="-2.12567" tile4url="images/актовый зал 1(зрительный зал)_o_4.jpg" tilevrurl="images/актовый зал 1(зрительный зал)_ovr.jpg" prev0url="images/актовый зал 1(зрительный зал)_o_preview_0.jpg" prev2url="images/актовый зал 1(зрительный зал)_o_preview_2.jpg" prev4url="images/актовый зал 1(зрительный зал)_o_preview_4.jpg" tile0url="images/актовый зал 1(зрительный зал)_o_0.jpg" tile5url="images/актовый зал 1(зрительный зал)_o_5.jpg" tile1url="images/актовый зал 1(зрительный зал)_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/актовый зал 1(зрительный зал)_o_preview_3.jpg" levelingpitch="0" prev1url="images/актовый зал 1(зрительный зал)_o_preview_1.jpg" prev5url="images/актовый зал 1(зрительный зал)_o_preview_5.jpg" tile2url="images/актовый зал 1(зрительный зал)_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="-137.197" tilt="3.91525"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Актовый зал(зрительный зал)" latitude="" datetime="26.11.2025 8:05" heading="0" info="" nodeid="node1" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+      <hotspot title="Актовый зал(сцена)" skinid="ht_node" url="{node2}" target="" pan="-135.53" id="Актовый зал(сцена)" description="" tilt="-2.17"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input tile3url="images/актовый2_equi_cube_equi_o_3.jpg" levelingroll="-0.5" tile4url="images/актовый2_equi_cube_equi_o_4.jpg" tilevrurl="images/актовый2_equi_cube_equi_ovr.jpg" prev0url="images/актовый2_equi_cube_equi_o_preview_0.jpg" prev2url="images/актовый2_equi_cube_equi_o_preview_2.jpg" prev4url="images/актовый2_equi_cube_equi_o_preview_4.jpg" tile0url="images/актовый2_equi_cube_equi_o_0.jpg" tile5url="images/актовый2_equi_cube_equi_o_5.jpg" tile1url="images/актовый2_equi_cube_equi_o_1.jpg" tilescale="1.002441" tilesize="4096" prev3url="images/актовый2_equi_cube_equi_o_preview_3.jpg" levelingpitch="0" prev1url="images/актовый2_equi_cube_equi_o_preview_1.jpg" prev5url="images/актовый2_equi_cube_equi_o_preview_5.jpg" tile2url="images/актовый2_equi_cube_equi_o_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" pan="-27.6533" tilt="1.13102"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="Актовый зал(сцена)" latitude="" datetime="26.11.2025 8:14" heading="0" info="" nodeid="node2" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="Панорамы" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" wordwrap="1" borderradius="1" enabled="1" textalpha="1" borderalpha="1" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" handcursor="1"/>
+      <hotspot title="Актовый зал(зрительный зал)" skinid="ht_node" url="{node1}" target="" pan="-22.18" id="Актовый зал(зрительный зал)" description="" tilt="-10.44"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" enabled="1" zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" blendtime="1" zoomafterinfov="90" zoomspeed="2"/>
+    <autorotate startloaded="0" enabled="1" noderandom="1" speed="0.100" nodedelay="0.00" nodefilter="" delay="10.00" returntohorizon="0.000" useanimation="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1" rubberband="0" lockedwheel="0" simulatemass="1" dblclickfullscreen="1" invertcontrol="1" lockedmouse="0" hideabout="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" latitude="" datetime="" heading="0" info="" nodeid="master" comment="" customnodeid="" author="" source="" longitude="" copyright="" tags="" description=""/>
+  </masternode>
+</tour>
